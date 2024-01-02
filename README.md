@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **amishra527@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 Know about my experiences [resume](resume.md)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
