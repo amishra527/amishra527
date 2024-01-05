@@ -7,13 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/@amishra527" target="blank"><img src="https://img.shields.io/twitter/follow/@amishra527?logo=twitter&style=for-the-badge" alt="@amishra527" /></a> </p>
 
-- 🔭 I’m currently working on **Nvidia NEMO translation**
+- 🔭 I’m currently working on **PDF2PDF translation and conversion**
+
+- 🔭 I’m worked on **Nvidia NEMO translation**
 
 - 🌱 I’m currently learning **kubernetes, docker**
 
 - 👯 I’m currently work in NIC on **Panini Translation Service**
 
-- 👨‍💻 All of my projects are available at [Working on](Working on)
+- 👨‍💻 All of my projects are available at github repo
 
 - 📫 How to reach me **amishra527@gmail.com**
 
