@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@amishra527" target="blank"><img src="https://img.shields.io/twitter/follow/@amishra527?logo=twitter&style=for-the-badge" alt="@amishra527" /></a> </p>
 
-- 🔭 I’m currently working on **PDF2PDF translation and conversion**
+- 🔭 I’m currently working on **RAG LLM**
 
 - 🔭 I’m worked on **Nvidia NEMO translation**
 
