@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **kubernetes, docker**
 
-- 👯 I’m currently work in NIC on **Panini Translation Service**
+- 👯 I’m currently work in NIC on **live interview assistence**
 
 - 👨‍💻 All of my projects are available at github repo
 
-- 📫 How to reach me **amishra527@gmail.com**
+- 📫 How to reach me **amishra.nic.527@gmail.com**
 
 - 📄 Know about my experiences [resume](resume.md)
 
