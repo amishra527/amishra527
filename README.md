@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **kubernetes, docker**
 
-- 👯 I’m currently work in NIC on **live interview assistence**
+- 👯 I’m currently work in Deloitte on **live interview assistence**
 
 - 👨‍💻 All of my projects are available at github repo
 
