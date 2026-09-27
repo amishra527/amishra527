@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at github repo
 
-- 📫 How to reach me **amishra.nic.527@gmail.com**
+- 📫 How to reach me **amishra.nic.527@gmail.com/amishra527@gmail.com**
 
 - 📄 Know about my experiences [resume](resume.md)
 
