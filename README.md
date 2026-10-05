@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=amishra527&label=Profile%20views&color=0e75b6&style=flat" alt="amishra527" />
   <a href="https://linkedin.com/in/ashutosh-mishra-38081258" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:amishra527@gmail.com"><img src="https://img.shields.io/badge/Email-amishra527%40gmail.com-c14438?style=flat&logo=gmail" alt="Email" /></a>
+  <a href="mailto:amishra.nic.527@gmail.com"><img src="https://img.shields.io/badge/Email-amishra.nic.527%40gmail.com-c14438?style=flat&logo=gmail" alt="Email" /></a>
 </p>
 
 <p align="center">
@@ -15,12 +16,119 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working as a **Senior Consultant, Data Science & AI Incubator** at **Deloitte**
-- 🧠 Specializing in **GenAI, Citation-Critical RAG, Agentic AI, and Multilingual Transformers (IndicTrans2, Gemma, Mistral)**
+🔭 Currently working as a **Senior Consultant, Data Science & AI Incubator** at **Deloitte**, in project sometimes as a **Senior LLM Engineer or FDE and AI Consultant with 8+ years of experience** across software engineering, data science, machine learning, and production AI systems.
+
+Over the last 5+ years, I've focused on building **GenAI, RAG, NLP, multilingual translation, agentic AI, and real-time conversational systems**.
+
+My work sits at the intersection of:
+
+- 🧠 Agentic AI & LLM orchestration Specializing in **GenAI, Citation-Critical RAG, Agentic AI, and Multilingual Transformers (IndicTrans2, Gemma, Mistral)**
+- 📊 LLM evaluation & quantitative benchmarking, 🖥️ Distributed GPU inference on NVIDIA DGX.
+- 📚 Evidence-grounded and citation-critical AI, 🌐 Multilingual NLP and translation.
 - ⚡ Experienced in architecting enterprise AI evaluation pipelines on **Azure OpenAI**, **Microsoft Fabric**, and **distributed NVIDIA DGX clusters**
 - 🛠️ Deep hands-on expertise in **FastAPI, Python, Milvus, LangChain, LlamaIndex, Docker, and Kubernetes**
 - 🎯 Passionate about **hallucination control, atomic proposition contradiction detection, and verifiable evidence grounding**
-- 📫 Reach me directly at: **amishra527@gmail.com**
+- 📫 Reach me directly at: **amishra527@gmail.com or amishra.nic.527@gmail.com**
+
+---
+
+## 💼 Current Role
+
+### Senior Consultant – Data Science & AI
+**Deloitte Touche Tohmatsu India LLP**
+
+I work on production-oriented AI systems involving:
+
+- Azure OpenAI
+- Microsoft Fabric SQL
+- Python & FastAPI
+- Agentic AI
+- Meeting intelligence
+- LLM evaluation
+- Semantic classification
+- Contradiction detection
+- Evidence grounding
+- Structured outputs and validation
+
+One of my recent projects is an **AI-powered capability assessment platform** that analyzes interview transcripts and converts them into structured capability assessments across multiple dimensions.
+
+I focus heavily on making LLM systems:
+
+**Reliable → Explainable → Auditable → Production-ready**
+
+---
+
+## 🚀 Previous Experience
+
+### Senior Software Developer – Data Science
+**National Informatics Centre (NIC)**
+
+Built and deployed AI systems for government and legal use cases.
+
+### AI Anveshika – Legal & Government RAG
+
+Worked on a citation-critical RAG platform involving:
+
+- PDF → Markdown document processing
+- Document cleaning and chunking
+- Metadata management
+- Embeddings
+- Milvus vector indexing
+- Semantic retrieval
+- Reranking
+- Citation-aware generation
+- Evidence grounding
+
+The system supported legal and government workflows and achieved approximately:
+
+**30% reduction in information-retrieval time for e-Courts**
+
+**40% reduction for Ministry of Finance use cases**
+
+### AI Panini – Multilingual Translation
+
+Worked on multilingual AI systems for Indian languages using:
+
+- IndicTrans2
+- Gemma
+- Transformer fine-tuning
+- FastAPI
+- Docker
+- Kubernetes
+
+Developed document-level translation workflows supporting multiple official Indian languages.
+
+---
+
+## 🧠 What I Work On
+
+```text
+LLMs
+ ├── RAG
+ │    ├── Document ingestion
+ │    ├── Chunking
+ │    ├── Embeddings
+ │    ├── Vector search
+ │    ├── Hybrid retrieval
+ │    └── Reranking
+ │
+ ├── Agentic AI
+ │    ├── Tool orchestration
+ │    ├── Context management
+ │    └── Workflow automation
+ │
+ ├── LLM Evaluation
+ │    ├── Quality benchmarking
+ │    ├── Contradiction detection
+ │    ├── Evidence validation
+ │    └── Confidence scoring
+ │
+ └── Production AI
+      ├── FastAPI
+      ├── Docker
+      ├── Kubernetes
+      ├── GPU inference
+      └── Observability
 
 ---
 
