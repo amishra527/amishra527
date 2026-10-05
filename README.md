@@ -129,7 +129,7 @@ LLMs
       ├── Kubernetes
       ├── GPU inference
       └── Observability
-
+```
 ---
 
 ### 🌐 Connect With Me
