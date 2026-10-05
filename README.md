@@ -182,6 +182,66 @@ Cloud / DevOps / MLOps
 
 ---
 
+### 📊 AI Engineering Focus
+
+##### I'm particularly interested in solving problems around:
+- Grounded LLMs
+- RAG quality and retrieval optimization
+- LLM evaluation
+- Hallucination mitigation
+- Contradiction detection
+- Evidence and citation verification
+- Multilingual AI
+- Agentic workflows
+- Production LLM infrastructure
+- Distributed GPU inference
+- AI observability and reliability
+
+### 🏆 Selected Engineering Work
+
+#### 🔎 Evidence-Grounded AI
+##### Designed workflows with:
+- Exact source citations
+- Page-level traceability
+- Confidence scoring
+- Structured JSON validation
+- Safe fallbacks
+- Evidence verification
+
+### 🧪 LLM Evaluation
+#### Built evaluation datasets covering:
+- Genuine contradictions
+- Semantic non-contradictions
+- Scope mismatches
+- Temporal mismatches
+- Duplicate evidence
+- Long-document retrieval
+- Multilingual edge cases
+
+### ⚡ Production AI Infrastructure
+#### Worked with:
+- Docker
+- Kubernetes
+- GPU scheduling
+- Distributed NVIDIA DGX infrastructure
+- Prometheus
+- Grafana
+- Loki
+- Locust
+- FastAPI
+
+### 🎓 Education
+#### M.Tech – Artificial Intelligence & Machine Learning
+BITS Pilani | 2023–2025
+#### PG Diploma – Artificial Intelligence
+CDAC Noida | 2021
+#### M.Sc – Computer Science
+Himalayan Garhwal University | 2017–2019
+#### BCA – Computer Applications
+CCS University | 2008–2011
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="left">
@@ -193,9 +253,6 @@ Cloud / DevOps / MLOps
   </a>
   <a href="https://kaggle.com/amishra527" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/amishra527" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
 </p>
 
@@ -265,14 +322,16 @@ Cloud / DevOps / MLOps
 
 ---
 
-### 📊 GitHub Activity
-
+📈 GitHub Stats
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amishra527&show_icons=true&locale=en&layout=compact" alt="amishra527" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=amishra527&show_icons=true&locale=en" alt="amishra527" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amishra527&show_icons=true&locale=en" alt="Ashutosh's GitHub stats"/>
 </p>
 
 <p align="center">
-  <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishra527" alt="amishra527" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amishra527" alt="GitHub streak"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amishra527&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
+</p>
+
