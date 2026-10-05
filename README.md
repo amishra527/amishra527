@@ -132,6 +132,56 @@ LLMs
 ```
 ---
 
+🛠️ Technologies
+AI / LLM
+<p>
+<img src="https://img.shields.io/badge/LLM-GenAI-blue" />
+<img src="https://img.shields.io/badge/RAG-Architecture-green" />
+<img src="https://img.shields.io/badge/Agentic-AI-purple" />
+<img src="https://img.shields.io/badge/LangChain-black" />
+<img src="https://img.shields.io/badge/LlamaIndex-orange" />
+<img src="https://img.shields.io/badge/Azure-OpenAI-0078D4" />
+<img src="https://img.shields.io/badge/NVIDIA-NeMo-76B900" />
+</p>
+
+Machine Learning / Data
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-336791?logo=database&logoColor=white" />
+</p>
+
+Vector / Data Platforms
+<p>
+<img src="https://img.shields.io/badge/Milvus-Vector%20Database-blue" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft-Fabric-742774" />
+</p>
+
+Backend / APIs
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/REST-APIs-blue" />
+<img src="https://img.shields.io/badge/Async-Python-yellow" />
+</p>
+
+Cloud / DevOps / MLOps
+<p>
+<img src="https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-DGX-76B900" />
+<img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-2C3E50" />
+<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-945DD6" />
+</p>
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="left">
