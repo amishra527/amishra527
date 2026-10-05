@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/@amishra527" target="blank"><img src="https://img.shields.io/twitter/follow/@amishra527?logo=twitter&style=for-the-badge" alt="@amishra527" /></a> </p>
 
-- 🔭 I’m currently working on **RAG LLM**
+- 🔭 I’m currently working as **FDE**
 
-- 🔭 I’m worked on **Nvidia NEMO translation**
+- 🔭 I have worked on **Nvidia NEMO translation**
 
-- 🌱 I’m currently learning **kubernetes, docker**
+- 🌱 I have currently learning **kubernetes, docker**
 
-- 👯 I’m currently work in Deloitte on **live interview assistence**
+- 👯 I’m currently work in Deloitte as **Senior Consultant**
 
-- 👨‍💻 All of my projects are available at github repo
+- 👨‍💻 All of my pasion projects are available at github repo
 
-- 📫 How to reach me **amishra.nic.527@gmail.com/amishra527@gmail.com**
+- 📫 How to reach me **amishra.nic.527@gmail.com or amishra527@gmail.com**
 
 - 📄 Know about my experiences [resume](resume.md)
 
